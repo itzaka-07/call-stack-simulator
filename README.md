@@ -15,9 +15,8 @@ This interactive **Call Stack Simulator** lets you _see_ the execution flow of r
 ---
 
 ## 🖼 Preview
-![Call Stack Simulator Preview](<img width="1909" height="868" alt="image" src="https://github.com/user-attachments/assets/88c2655e-1148-4a71-af44-e0845414eabe" />
- )  
-*Example: Fibonacci (n = 5) visualized in Tree View.*  
+![Call Stack Simulator Preview](https://github.com/user-attachments/assets/88c2655e-1148-4a71-af44-e0845414eabe)  
+*Example: Fibonacci (n = 5) visualized in Tree View.*
 ---
 
 ## 🚀 Features
